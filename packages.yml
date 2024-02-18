@@ -1,4 +1,5 @@
 packages:
+  - # default packages to start a project
   - package: calogica/dbt_date
     version: [">=0.7.0", "0.10.0"]
 
